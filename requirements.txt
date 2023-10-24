@@ -1,0 +1,4 @@
+packaging==23.2
+Pillow==10.1.0
+pyembroidery==1.4.36
+pytesseract==0.3.10
